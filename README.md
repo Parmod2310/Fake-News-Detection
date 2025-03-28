@@ -112,7 +112,7 @@ Three traditional ML models were trained and evaluated:
 ### 1. Clone the repository
   
   ```bash
-  git clone <repository-url>
+  git clone https://github.com/Parmod2310/Fake-News-Detection.git
   cd fake-news-detection
   ```
 
